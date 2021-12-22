@@ -108,11 +108,11 @@ speed_test(){
 }
 
 preinfo() {
-	echo "———————————————————SuperSpeed 全面测速版——————————————————"
-	echo "       bash <(curl -Lso- https://git.io/superspeed_uxh)"
-	echo "       全部节点列表:  https://git.io/superspeedList_uxh"
-	echo "       节点更新: 2020/06/19  | 脚本更新: 2020/06/19"
-	echo "——————————————————————————————————————————————————————————"
+	echo "———————————————————————————————————SuperSpeed 全面测速版—————————————————————————————————"
+	echo "bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/superspeed.sh)"
+	echo "                   全部节点列表:  https://github.com/uxh/superspeed"
+	echo "                     节点更新: 2020/06/19  | 脚本更新: 2021/12/22"
+	echo "————————————————————————————————————————————————————————————————————————————————————————"
 }
 
 selecttest() {
