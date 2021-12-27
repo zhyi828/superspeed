@@ -4,6 +4,14 @@
 
 ### 使用方法
 
+主要：
+
+```bash
+bash <(curl -Lso- https://git.io/superspeed_uxh)
+```
+
+备用：
+
 ```bash
 bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/superspeed.sh)
 ```
