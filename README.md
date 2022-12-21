@@ -13,7 +13,7 @@ bash <(curl -Lso- https://git.io/superspeed_uxh)
 备用：
 
 ```bash
-bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/superspeed.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/zhyi828/superspeed/master/superspeed.sh)
 ```
 
 ### 节点更新时间
